@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Solution Items", "0. Solution Items", "{3D55BD04-0430-46F4-82A2-1FA1CBD3BA5D}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentry.OpenTelemetry.HttpClientRequestFilteringLeakRepro", "Sentry.OpenTelemetry.HttpClientRequestFilteringLeakRepro\Sentry.OpenTelemetry.HttpClientRequestFilteringLeakRepro.csproj", "{A01E1CB3-111C-41C1-9C04-A4E1CFA385EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01E1CB3-111C-41C1-9C04-A4E1CFA385EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01E1CB3-111C-41C1-9C04-A4E1CFA385EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01E1CB3-111C-41C1-9C04-A4E1CFA385EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01E1CB3-111C-41C1-9C04-A4E1CFA385EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
